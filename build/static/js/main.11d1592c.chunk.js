@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-quill"]=this["webpackJsonpreact-quill"]||[]).push([[0],{16:function(e,t,c){},18:function(e,t,c){"use strict";c.r(t);var r=c(3),n=c(4),i=(c(15),c(16),c(0));var s=function(){var e=Object(n.a)().quillRef;return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("div",{className:"quill",children:Object(i.jsx)("div",{ref:e})})})};var u=function(){return Object(i.jsx)(s,{})};Object(r.render)(Object(i.jsx)(u,{}),document.getElementById("root"))}},[[18,1,2]]]);
-//# sourceMappingURL=main.11d1592c.chunk.js.map
