@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/quill.scss"],"names":[],"mappings":"AAAA,OACI,WAAA,CACA,WAAA,CACA,YAAA","file":"main.e6d06179.chunk.css","sourcesContent":[".quill {\r\n    width: 700px;\r\n    margin: auto;\r\n    height: 300px;\r\n}\r\n"]}
